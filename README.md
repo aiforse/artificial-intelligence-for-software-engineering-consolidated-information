@@ -10,7 +10,7 @@ If you want to contribute to this Page, please send a Pull Request or [email us]
   - [AIFORSE Community](#aiforse-community)
   - [Related Communities/Organizations](#related-communitiesorganizations)
 - [Solutions](#solutions)
-  - [AI for Software Engineering - Industry Landscape](#ai-for-software-engineering—industry-landscape)
+  - [AI for Software Engineering - Industry Landscape](#ai-for-software-engineering---industry-landscape)
     - [Requirements Management](#requirements-management)
     - [Software Design](#software-design)
     - [Code Construction/Configuration Management](#code-constructionconfiguration-management)
