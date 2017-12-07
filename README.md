@@ -5,7 +5,27 @@ If you want to contribute to this Page, please send a Pull Request or [email us]
 
 ## Table of Contents
 
-[TOC]
+- [Market Statistics](#)
+- [Community](#)
+  - [AIFORSE Community](#)
+  - [Related Communities/Organizations](#)
+- [Solutions](#)
+  - [AI for Software Engineering - Industry Landscape](#)
+    - [Requirements Management](#)
+    - [Software Design](#)
+    - [Code Construction/Configuration Management](#)
+    - [Quality Management/Testing](#)
+    - [Maintenance](#)
+    - [Project Management](#)
+  - [Theoretical Works, which were not included into the Landscape](#)
+  - [Other Sources](#)
+- [Libraries](#)
+- [Data Sources](#)
+- [Researches/Reports](#)
+- [Videos](#)
+- [Articles](#)
+- [Events](#)
+- [Misc.](#)
 
 -----
 
