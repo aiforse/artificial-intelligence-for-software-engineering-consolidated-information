@@ -174,6 +174,7 @@ Please find below all the Solutions, presented in the "[Industry Landscape](http
 * [AI for Testing: Identifying App State](https://medium.com/ai-for-software-testing/ai-for-testing-identifying-app-state-92a8c89a0216), by [Jason Arbon](https://twitter.com/jarbon), September 6, 2017
 * [Getting Started with AI for Testing](https://medium.com/ai-for-software-testing/getting-started-with-ai-for-testing-571f88dff3c9), by [Tariq M. King](https://twitter.com/tariq_king), October 13, 2017
 * [Test Autonomy Levels](https://blog.appdiff.com/test-autonomy-levels-7de7967d030e), by [Jason Arbon](https://twitter.com/jarbon), November 20, 2017
+* [Teaching Machines to Understand User Interfaces](https://hackernoon.com/teaching-machines-to-understand-user-interfaces-5a0cdeb4d579), by [Tony Beltramelli](https://twitter.com/Tbeltramelli), November 30, 2017
 
 -----
 
